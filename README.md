@@ -17,4 +17,4 @@ Feeling like a coding whiz? ‍‍
 
 The code is well-structured and uses HTML, CSS, and JavaScript.  Feel free to tinker and add features like multiple players, fancy animations, or even sound effects!
 
-Let the games begin!
+Let the games begin! https://shubhampatel001.github.io/Dice-Game/
